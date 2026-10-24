@@ -1,0 +1,5 @@
+backups/
+work/
+历史版本/
+__pycache__/
+*.pyc
